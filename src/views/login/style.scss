@@ -1,0 +1,14 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e4e4c;
+
+  .content {
+    width: 30vw;
+    height: 20vh;
+    background-color: #fff;
+  }
+}
